@@ -1,0 +1,12 @@
+c:\users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\DataModelLibrary\bin\Debug\DataModelLibrary.dll.config
+c:\users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\DataModelLibrary\bin\Debug\DataModelLibrary.dll
+c:\users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\DataModelLibrary\bin\Debug\DataModelLibrary.pdb
+c:\users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\DataModelLibrary\bin\Debug\EntityFramework.dll
+c:\users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\DataModelLibrary\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\DataModelLibrary\bin\Debug\EntityFramework.xml
+c:\users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\DataModelLibrary\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\DataModelLibrary\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\DataModelLibrary\obj\Debug\DataModelLibrary.dll
+c:\users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\DataModelLibrary\obj\Debug\DataModelLibrary.pdb
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\DataModelLibrary\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\DataModelLibrary\obj\Debug\DataModelLibrary.csprojResolveAssemblyReference.cache
