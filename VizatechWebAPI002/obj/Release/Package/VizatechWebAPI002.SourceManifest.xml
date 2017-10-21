@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\VizatechWebAPI002\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\VizatechWebAPI002\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\VizatechWebAPI002\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

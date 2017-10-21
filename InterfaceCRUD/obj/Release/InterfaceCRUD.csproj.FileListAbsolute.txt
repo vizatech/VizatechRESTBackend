@@ -1,0 +1,15 @@
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\InterfaceCRUD\bin\Release\InterfaceCRUD.dll
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\InterfaceCRUD\bin\Release\InterfaceCRUD.pdb
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\InterfaceCRUD\bin\Release\AutoMapper.dll
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\InterfaceCRUD\bin\Release\BusinessLayerLibrary.dll
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\InterfaceCRUD\bin\Release\DataModelLibrary.dll
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\InterfaceCRUD\bin\Release\EntityFramework.dll
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\InterfaceCRUD\bin\Release\BusinessLayerLibrary.pdb
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\InterfaceCRUD\bin\Release\DataModelLibrary.pdb
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\InterfaceCRUD\bin\Release\DataModelLibrary.dll.config
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\InterfaceCRUD\bin\Release\AutoMapper.xml
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\InterfaceCRUD\bin\Release\EntityFramework.xml
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\InterfaceCRUD\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\InterfaceCRUD\obj\Release\InterfaceCRUD.csprojResolveAssemblyReference.cache
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\InterfaceCRUD\obj\Release\InterfaceCRUD.dll
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\InterfaceCRUD\obj\Release\InterfaceCRUD.pdb

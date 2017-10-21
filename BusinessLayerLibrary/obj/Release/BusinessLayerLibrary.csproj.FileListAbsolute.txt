@@ -1,0 +1,5 @@
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\BusinessLayerLibrary\bin\Release\BusinessLayerLibrary.dll
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\BusinessLayerLibrary\bin\Release\BusinessLayerLibrary.pdb
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\BusinessLayerLibrary\obj\Release\BusinessLayerLibrary.csprojResolveAssemblyReference.cache
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\BusinessLayerLibrary\obj\Release\BusinessLayerLibrary.dll
+C:\Users\dmitr\onedrive\документы\visual studio 2017\Projects\VizatechWebAPI001\BusinessLayerLibrary\obj\Release\BusinessLayerLibrary.pdb
